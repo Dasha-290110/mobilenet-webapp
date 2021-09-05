@@ -1,0 +1,70 @@
+.whole_index{
+    font-family: 'ZCOOL KuaiLe', cursive;
+     background: purple;
+}
+
+.heading{
+    background: rgb(255, 255, 255);
+    color: black;
+    border:5px solid black;
+}
+
+.heading img{
+    width: 50px;
+    height: 50px;
+    color: aquamarine;
+}
+
+
+.main_div label{
+    background:cyan;
+    padding:10px;
+    margin-bottom: 0px;
+    border:3px solid black;
+width: 310px;
+box-shadow: 5px 5px 18px white;
+}
+
+#camera,#result{
+border: 5px solid white;
+width: 310px;
+height: 310px;
+box-shadow: 5px 5px 18px black;
+}
+
+.main_div button{
+    background:cyan;
+    padding:10px;
+    margin-bottom: 0px;
+    border:3px solid black;
+width: 310px;
+box-shadow: 5px 5px 18px rgb(255, 0, 0);
+}
+
+
+.footer_div{
+    margin-bottom: 50px;
+}
+
+.footer_div h4{
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px black;
+}
+
+.footer_div img{
+    width: 70px;
+}
+
+.copyright_footer{
+    position: fixed;
+    color: rgb(255, 255, 255);
+    bottom: 0;
+ width: 100%;
+ background-color: rgb(0, 0, 0);
+ line-height: 3;
+ text-align: center;
+}
+
+
